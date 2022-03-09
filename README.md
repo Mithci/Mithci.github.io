@@ -35,31 +35,34 @@ A dropped connection could mean hanging your team out to dry in an intense match
 
 ![20220309_155006802](https://user-images.githubusercontent.com/101241485/157398533-cd9b3a5a-f7bf-4ca4-9053-cb7b7399ed4b.jpeg)
 
+## The exploration of the components of Mobile Legend
+1. Profile
+2. Shop
+3. Events
+4. Starlight
+5. Performance Reward
+6. Daily
+7. Preparation
+8. Heroes
+9. Achievements
+10. Esports
+11. Inventory
+12. Battlefield (Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp)
+13. Friendlist
+14. Social
+15. Add Friends
+16. Squad
+17. Group
+18. Recharge
+19. Leaderboards
+20. Live
+21. Inbox
+22. Settings
 
-```markdown
-Syntax highlighted code block
+> Katamad mag label
 
-# Header 1
-## Header 2
-### Header 3
+### Profile
 
-- Bulleted
-- List
+![20220309_161128930_2](https://user-images.githubusercontent.com/101241485/157402623-fbeb3f88-e3b4-4739-8008-4e4d871d8f89.jpeg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mithci/Mithci.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
