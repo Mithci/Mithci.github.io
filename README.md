@@ -57,7 +57,7 @@ There are also a lot of things visible here that the other player may see. They 
 
 ![20220309_170704457](https://user-images.githubusercontent.com/101241485/157410544-b83011b2-1260-47b0-944a-fb57fdaed2f4.jpeg)
 
-Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will have a tip or two for you. [The beginner’s guide to getting good at Mobile Legends: Bang Bang](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/)
+> Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will be a great help for [you](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/).
 
 ### II. Shop, Events, Starlight, Performance Reward
 
