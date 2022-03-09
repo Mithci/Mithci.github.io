@@ -1,11 +1,11 @@
 # The components of Mobile Legend 
-This is a simple game website tour for those new to the game who have an interest in playing it.
+This is a simple website tour for those new to the game who have an interest in playing it.
 
 > Memo: This tour is based on my own knowledge and research, so if you see some errors in my explanation, particularly in these, please contact the author immediately for special correction. TY:)
 
 ## **What is Mobile Legend?**
 
-Mobile Legends: Bang Bang, the fascinating MOBA game on mobile. Smash and outplay your enemies and achieve the final victory with your teammates!
+[Mobile Legends: Bang Bang, the fascinating MOBA game on mobile](https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=US). Smash and outplay your enemies and achieve the final victory with your teammates!
 
 Your phone thirsts for battle!
 
