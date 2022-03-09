@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
-This belongs to Ryan A. Bulalacao Jr.
+# 3 Simple Mobile legends Marksman heroes Guide and tips
+The website guide for Mobile legend beggining players having an interest to attain the role of an marksman.
 
-You can use the [editor on GitHub](https://github.com/Mithci/Mithci.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> Memo: These 3 Marksman heroes of mine are MY RECOMMENDED AND THE CHOSEN ONE can be applied as you play your journey in the dawn arena of Mobile Legends.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **What is the role of an marksman in Mobile legend?**
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markman is a type of role that has a high attack/damage and critical and distance. This type is commonly referred to as carry/ADC [Attack Damage Carry]. Marksman plays an important role in the game by defeating enemies from a distance.
 
 ```markdown
 Syntax highlighted code block
