@@ -49,8 +49,6 @@ Your profile can be found on the upper left of your phone in which it is the sou
 
 ![20220309_161128930_2](https://user-images.githubusercontent.com/101241485/157402623-fbeb3f88-e3b4-4739-8008-4e4d871d8f89.jpeg)
 
-![20220309_165308115](https://user-images.githubusercontent.com/101241485/157407620-146e26bc-528d-460b-a72e-cacba89072ab.jpeg)
-
 There are also a lot of things visible here that the other player may see. They can see your albums, history, battlefields (statistics, favorites, replays, and credit score), your arcade history, streaming info, your mentor info, your account, and especially the Affinity.
 
 ![20220309_170704457](https://user-images.githubusercontent.com/101241485/157410544-b83011b2-1260-47b0-944a-fb57fdaed2f4.jpeg)
