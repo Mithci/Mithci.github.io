@@ -66,8 +66,20 @@ Starlight is a system created to reward players based on their Starlight point p
 
 ![20220309_171843090](https://user-images.githubusercontent.com/101241485/157416425-8d8f4482-4d01-400e-b328-ce9f0688decf.jpeg)
 
+> If you want to learn more about the starlight member [Click here](https://mobile-legends.fandom.com/wiki/Starlight_Membership#:~:text=Starlight%20Membership%20is%20a%20system,premium%20prize%20pool%20right%20away.).
 
-### III. Daily, Preparation, Heroes, Achievements, Inventory
+## III. Daily, Preparation, Heroes, Achievements, Inventory
 
+The Daily, Preparation, Heroes, Achievements, and Inventory can be found on the bottom side of your phone, which has a big part in our journey in the land of dawn. On the daily, you can claim your daily rewards and surprises that Moontoon has given to you. They can be claimed by actively participating in his tasks, and you'll receive some gold, tickets, exp, keys, chests, and etch. In the preparation, players can prepare themselves for the fight that awaits them by upgrading their emblems, arranging their builds, emotes, quick chat & recalls, and reading every spell and build so that [you'll have the knowledge to know about each one.](https://mobile-legends.fandom.com/wiki/Equipment) 
+
+![20220309_175625329](https://user-images.githubusercontent.com/101241485/157419789-260ea88d-04d5-4ad5-b5d8-43ae4a03923f.jpeg)
+
+You can know each hero's backstory and know what they are fighting for. You can also know each single hero's relationship and be able to relate to them as you play them as your hero and be able to see more of the places that they have in the land of dawn. You'll be able to see each single skin they have and know if you already have them. In the achievements, here are the tasks that Moontoon assigned and you must complete. If we are able to determine that we can complete that particular task, and you complete it, it will serve as an achievement that can be displayed on your profile.
+
+![20220309_175535260](https://user-images.githubusercontent.com/101241485/157420792-039f2fa5-ed82-478b-a7de-fe7512064319.jpeg)
+
+and lastly in the inventory, you'll able to stock those loots that you have obtained to those task that you have accomplish. It can stack those such as potion, fragments, hero and skin trial, tickets, event rewards, and etch.
+
+## IV. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
 
 
