@@ -42,6 +42,7 @@ A dropped connection could mean hanging your team out to dry in an intense match
 5. Friendlist, Social, Add Friends, Squad, Group
 6. Recharge, Leaderboards, Live, Inbox, Settings
 
+
 ## I. Profile
 
 Your profile can be found on the upper left of your phone in which it is the source of information about you through the land of dawn. It is determined by your social media status in the game, your performance and stats, the number of (heroes, emblems, skins, Sacred Statue) that you have obtained, the award that you have won, and your charisma in the game.
@@ -54,9 +55,12 @@ There are also a lot of things visible here that the other player may see. They 
 
 > Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will be a great help for [you](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/).
 
+
+
 ## II. Shop, Events, Starlight, Performance Reward
 
-The Shop, Events, Starlight, and Performance Reward can be found on the left side of your phone, which is the source of loot that can be obtained through buying, claiming, and participating in the simple tasks that Moontoon has given you, and simple rewards await you as you accomplish those tasks. In the shop, you can buy your own chosen heroes and favorable skins of your choice for the cost of a diamond. There are also things that can be bought from the shop that can be helpful to make your performance reward even better. There is also an event in which you can also find loot as you accomplish your tasks. 
+The Shop, Events, Starlight, and Performance Reward can be found on the left side of your phone, which is the source of loot that can be obtained through buying, claiming, and participating in the simple tasks that Moontoon has given you, and simple rewards await you as you accomplish those tasks. In the shop, you can buy your own chosen heroes and favorable skins of your choice for the cost of a diamond.
+> There are also things that can be bought from the shop that can be helpful to make your performance reward even better. There is also an event in which you can also find loot as you accomplish your tasks. 
 
 ![20220309_171801413](https://user-images.githubusercontent.com/101241485/157416328-6924d451-685e-4de9-b66d-b682b5c5e9b7.jpeg)
 
@@ -67,17 +71,21 @@ Starlight is a system created to reward players based on their Starlight point p
 
 > If you want to learn more about the starlight member [Click here](https://mobile-legends.fandom.com/wiki/Starlight_Membership#:~:text=Starlight%20Membership%20is%20a%20system,premium%20prize%20pool%20right%20away.).
 
+
+
 ## III. Daily, Preparation, Heroes, Achievements, Inventory
 
 The Daily, Preparation, Heroes, Achievements, and Inventory can be found on the bottom side of your phone, which has a big part in our journey in the land of dawn. On the daily, you can claim your daily rewards and surprises that Moontoon has given to you. They can be claimed by actively participating in his tasks, and you'll receive some gold, tickets, exp, keys, chests, and etch. In the preparation, players can prepare themselves for the fight that awaits them by upgrading their emblems, arranging their builds, emotes, quick chat & recalls, and reading every spell and build so that [you'll have the knowledge to know about each one.](https://mobile-legends.fandom.com/wiki/Equipment) 
 
 ![20220309_175625329](https://user-images.githubusercontent.com/101241485/157419789-260ea88d-04d5-4ad5-b5d8-43ae4a03923f.jpeg)
 
-You can know each hero's backstory and know what they are fighting for. You can also know each single hero's relationship and be able to relate to them as you play them as your hero and be able to see more of the places that they have in the land of dawn. You'll be able to see each single skin they have and know if you already have them. In the achievements, here are the tasks that Moontoon assigned and you must complete. If we are able to determine that we can complete that particular task, and you complete it, it will serve as an achievement that can be displayed on your profile.
+You can know each hero's backstory and know what they are fighting for. You can also know each single hero's relationship and be able to relate to them as you play them as your hero and be able to see more of the places that they have in the land of dawn. You'll be able to see each single skin they have and know if you already have them.
+> In the achievements, here are the tasks that Moontoon assigned and you must complete. If we are able to determine that we can complete that particular task, and you complete it, it will serve as an achievement that can be displayed on your profile.
 
 ![20220309_175535260](https://user-images.githubusercontent.com/101241485/157420792-039f2fa5-ed82-478b-a7de-fe7512064319.jpeg)
 
 > and lastly in the inventory, you'll able to stock those loots that you have obtained to those task that you have accomplish. It can stack those such as potion, fragments, hero and skin trial, tickets, event rewards, and etch.
+
 
 ## IV. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
 
