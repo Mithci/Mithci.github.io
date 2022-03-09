@@ -43,11 +43,9 @@ A dropped connection could mean hanging your team out to dry in an intense match
 5. Friendlist, Social, Add Friends, Squad, Group
 6. Recharge, Leaderboards, Live, Inbox, Settings
 
-> Kayo na bahala hanapin mga yan
-
 ### I. Profile
 
-In Mobile Legend, your profile is about the information you have while traveling through the land of dawn.It is determined by your social media status in the game, your performance and stats, the number of (heroes, emblems, skins, Sacred Statue) that you have obtained, the award that you have won, and your charisma in the game.
+Your profile can be found on the upper left of your phone in which it is the source of information about you through the land of dawn. It is determined by your social media status in the game, your performance and stats, the number of (heroes, emblems, skins, Sacred Statue) that you have obtained, the award that you have won, and your charisma in the game.
 
 ![20220309_161128930_2](https://user-images.githubusercontent.com/101241485/157402623-fbeb3f88-e3b4-4739-8008-4e4d871d8f89.jpeg)
 
@@ -61,7 +59,9 @@ There are also a lot of things visible here that the other player may see. They 
 
 ### II. Shop, Events, Starlight, Performance Reward
 
+The Shop, Events, Starlight, and Performance Reward are can be found on the left side of your phone in which it is the source of loots that can be obtained through buying, claiming, and participating to the simple task does moontoon has given you and simple rewards awaits as you accomplish those task.
 
+![image](https://user-images.githubusercontent.com/101241485/157413661-4ea6d96d-e438-48a1-a1ed-f786c09d651c.png)![image](https://user-images.githubusercontent.com/101241485/157413701-3f9af8d4-0077-4ae3-9b90-fc2a3febe411.png)![image](https://user-images.githubusercontent.com/101241485/157413726-389d74b8-797a-4491-a366-2be4271d102d.png)![image](https://user-images.githubusercontent.com/101241485/157413747-6c5c425b-f0c3-4d6f-b811-92a27f7f1a6d.png)
 
 
 
