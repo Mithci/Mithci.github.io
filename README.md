@@ -43,7 +43,7 @@ A dropped connection could mean hanging your team out to dry in an intense match
 5. Friendlist, Social, Add Friends, Squad, Group
 6. Recharge, Leaderboards, Live, Inbox, Settings
 
-### I. Profile
+## I. Profile
 
 Your profile can be found on the upper left of your phone in which it is the source of information about you through the land of dawn. It is determined by your social media status in the game, your performance and stats, the number of (heroes, emblems, skins, Sacred Statue) that you have obtained, the award that you have won, and your charisma in the game.
 
@@ -87,3 +87,17 @@ Mobile Legends features a ranked system, but players can also find tournaments t
 When you win a ranked Mobile Legends match, you’ll be awarded a star, but a defeat will mean you’ll lose a star. Once you collect all the stars in a division, you’ll advance to the next tier. Players who don’t have any stars left in their rank will be demoted to a rank below after losing.
 
 ![20220303_235824637](https://user-images.githubusercontent.com/101241485/157423564-4e9a16f0-c9d9-4dbc-aade-2aa53f4b910c.jpeg)
+> [Here are all the ranked tiers in Mobile Legends.](https://dotesports.com/mobile/news/mobile-legends-ranking-system-explained)
+
+But thats not all, we also have Classic in which it is the first and earliest game mode in Mobile Legends. All other game modes use the rules in Classic as a base. This mode gives 5v5 and the Mobile Legends experience without worrying about losing your Rank, but your win rate will be affected, both from the hero side and the whole.
+> Classic Mode is a great place if you want to play more relaxed or hone skills using a new hero. If you had just bought a hero and is still unfamiliar as to how the hero works, you can familiarize yourself on using that hero first in Vs. AI or Custom. 
+
+![20220309_165308115 (1)](https://user-images.githubusercontent.com/101241485/157424561-4468874a-ad6b-4a12-b1d8-1d9d06484967.jpeg)
+> [To find out more game modes, visit the Battle Field Guide.](https://mobile-legends.fandom.com/wiki/Classic#:~:text=Classic%20is%20the%20first%20and,hero%20side%20and%20the%20whole.)
+
+Lastly, Arcade Modes is an additional game mode in Mobile Legends: Bang Bang that can time-to-time be playable during Special Events, Holidays, or Occasion. The mode feature various strategy based sub-games, that are listed below.
+
+
+## V. Friendlist, Social, Add Friends, Squad, Group
+
+
