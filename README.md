@@ -1,7 +1,7 @@
 # The components of Mobile Legend 
 This is a simple game website tour for those new to the game who have an interest in playing it.
 
-> Memo: This tour is based on my own knowledge and research playing this game, so if you see some errors in my explanation, particularly in these, please contact the author immediately for special correction. TY:)
+> Memo: This tour is based on my own knowledge and research, so if you see some errors in my explanation, particularly in these, please contact the author immediately for special correction. TY:)
 
 ## **What is Mobile Legend?**
 
@@ -78,8 +78,12 @@ You can know each hero's backstory and know what they are fighting for. You can 
 
 ![20220309_175535260](https://user-images.githubusercontent.com/101241485/157420792-039f2fa5-ed82-478b-a7de-fe7512064319.jpeg)
 
-and lastly in the inventory, you'll able to stock those loots that you have obtained to those task that you have accomplish. It can stack those such as potion, fragments, hero and skin trial, tickets, event rewards, and etch.
+> and lastly in the inventory, you'll able to stock those loots that you have obtained to those task that you have accomplish. It can stack those such as potion, fragments, hero and skin trial, tickets, event rewards, and etch.
 
 ## IV. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
 
+Mobile Legends features a ranked system, but players can also find tournaments to compete in, which increases the level of competition throughout the game. Even if you’re not aiming for glory, playing ranked matches will allow you to play with players from the same skill tier as you. 
+> Before you can step foot into the ranked mode, you’ll need to get your account to level eight and unlock at least six heroes. Once you complete these requirements, you’ll be able to start your journey from the Warrior rank.
+When you win a ranked Mobile Legends match, you’ll be awarded a star, but a defeat will mean you’ll lose a star. Once you collect all the stars in a division, you’ll advance to the next tier. Players who don’t have any stars left in their rank will be demoted to a rank below after losing.
 
+![20220303_235824637](https://user-images.githubusercontent.com/101241485/157423564-4e9a16f0-c9d9-4dbc-aade-2aa53f4b910c.jpeg)
