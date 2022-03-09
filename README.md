@@ -57,9 +57,14 @@ There are also a lot of things visible here that the other player may see. They 
 
 ## II. Shop, Events, Starlight, Performance Reward
 
-The Shop, Events, Starlight, and Performance Reward can be found on the left side of your phone, which is the source of loot that can be obtained through buying, claiming, and participating in the simple tasks that Moontoon has given you, and simple rewards await you as you accomplish those tasks. In the shop, you can buy your own chosen heroes and favorable skins of your choice for the cost of a diamond. There are also things that can be bought from the shop that can be helpful to make your performance reward even better. There is also an event in which you can also find loot as you accomplish your tasks. Starlight is a system created to reward players based on their Starlight point progression. Players that subscribe to the membership will get an exclusive Starlight skin and unlock the premium prize pool right away, and the performance reward can be claimed after the game, and the prize that you'll get will be based on your performance in the last game that you played.
+The Shop, Events, Starlight, and Performance Reward can be found on the left side of your phone, which is the source of loot that can be obtained through buying, claiming, and participating in the simple tasks that Moontoon has given you, and simple rewards await you as you accomplish those tasks. In the shop, you can buy your own chosen heroes and favorable skins of your choice for the cost of a diamond. There are also things that can be bought from the shop that can be helpful to make your performance reward even better. There is also an event in which you can also find loot as you accomplish your tasks. 
 
-![image](https://user-images.githubusercontent.com/101241485/157414209-b4356cf5-d7d7-452f-bb5c-01140f940ef8.png)
+![20220309_171801413](https://user-images.githubusercontent.com/101241485/157416328-6924d451-685e-4de9-b66d-b682b5c5e9b7.jpeg)
+
+
+Starlight is a system created to reward players based on their Starlight point progression. Players that subscribe to the membership will get an exclusive Starlight skin and unlock the premium prize pool right away, and the performance reward can be claimed after the game, and the prize that you'll get will be based on your performance in the last game that you played.
+
+![20220309_171843090](https://user-images.githubusercontent.com/101241485/157416425-8d8f4482-4d01-400e-b328-ce9f0688decf.jpeg)
 
 
 ### III. Daily, Preparation, Heroes, Achievements, Inventory
