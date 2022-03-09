@@ -120,4 +120,15 @@ Lastly, Arcade Modes is an additional game mode in Mobile Legends: Bang Bang tha
 
 ## V. Friendlist, Social, Add Friends, Squad, Group
 
+The Friendlist, Social, Add Friends, Squad, and Group are located on the right side of the phone, which helps us socialize with our friends by playing, chatting, teaching, and competing with each other. Through this section, you can see how strong your relationship is by the affinity that connects you with that particular person. It can be your [soulmate, confidant, best friend, or bro.](https://gamingonphone.com/guides/mobile-legends-familiarity-affinity-system-explained/#:~:text=How%20to%20establish%20Affinity%20in,needs%20to%20approve%20the%20request.)
+
+![20220309_175641634](https://user-images.githubusercontent.com/101241485/157461096-2b2beb7f-ba65-4144-9488-8568b6a5bd48.jpeg)
+
+
+
+
+
+
+
+
 
