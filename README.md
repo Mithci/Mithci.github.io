@@ -51,10 +51,18 @@ In Mobile Legend, your profile is about the information you have while traveling
 
 ![20220309_161128930_2](https://user-images.githubusercontent.com/101241485/157402623-fbeb3f88-e3b4-4739-8008-4e4d871d8f89.jpeg)
 
+![20220309_165308115](https://user-images.githubusercontent.com/101241485/157407620-146e26bc-528d-460b-a72e-cacba89072ab.jpeg)
+
 There are also a lot of things visible here that the other player may see. They can see your albums, history, battlefields (statistics, favorites, replays, and credit score), your arcade history, streaming info, your mentor info, your account, and especially the Affinity.
 
-![20220309_154409652](https://user-images.githubusercontent.com/101241485/157407590-650a3681-d3b7-4b0c-a163-e16a341ec3a9.jpeg)
+![20220309_170704457](https://user-images.githubusercontent.com/101241485/157410544-b83011b2-1260-47b0-944a-fb57fdaed2f4.jpeg)
 
-![20220309_165308115](https://user-images.githubusercontent.com/101241485/157407620-146e26bc-528d-460b-a72e-cacba89072ab.jpeg)
+Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will have a tip or two for you. [The beginner’s guide to getting good at Mobile Legends: Bang Bang](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/)
+
+### II. Shop, Events, Starlight, Performance Reward
+
+
+
+
 
 
