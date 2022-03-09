@@ -1,11 +1,13 @@
-# 3 Simple Mobile legends Marksman heroes Guide and tips
-The website guide for Mobile legend beggining players having an interest to attain the role of an marksman.
+# The components of Mobile Legend 
+This is a simple game website tour for those new to the game who have an interest in playing it.
 
-> Memo: These 3 Marksman heroes of mine are MY RECOMMENDED AND THE CHOSEN ONE can be applied as you play your journey in the dawn arena of Mobile Legends.
+> Memo: This tour is based on my own knowledge and experience playing this game, so if you see some errors in my explanation, particularly in these, please contact the author immediately for special correction. TY:)
 
-## **What is the role of an marksman in Mobile legend?**
+## **What is Mobile Legend?**
 
-Markman is a type of role that has a high attack/damage and critical and distance. This type is commonly referred to as carry/ADC [Attack Damage Carry]. Marksman plays an important role in the game by defeating enemies from a distance.
+Mobile Legends: Bang Bang, commonly referred to as ML or MLBB, is a mobile multiplayer online battle arena game developed and published by Moonton.
+![20220309_155006802](https://user-images.githubusercontent.com/101241485/157398533-cd9b3a5a-f7bf-4ca4-9053-cb7b7399ed4b.jpeg)
+
 
 ```markdown
 Syntax highlighted code block
