@@ -61,8 +61,14 @@ There are also a lot of things visible here that the other player may see. They 
 
 The Shop, Events, Starlight, and Performance Reward are can be found on the left side of your phone in which it is the source of loots that can be obtained through buying, claiming, and participating to the simple task does moontoon has given you and simple rewards awaits as you accomplish those task.
 
-![image](https://user-images.githubusercontent.com/101241485/157413661-4ea6d96d-e438-48a1-a1ed-f786c09d651c.png)![image](https://user-images.githubusercontent.com/101241485/157413701-3f9af8d4-0077-4ae3-9b90-fc2a3febe411.png)![image](https://user-images.githubusercontent.com/101241485/157413726-389d74b8-797a-4491-a366-2be4271d102d.png)![image](https://user-images.githubusercontent.com/101241485/157413747-6c5c425b-f0c3-4d6f-b811-92a27f7f1a6d.png)
+# Shop
+![image](https://user-images.githubusercontent.com/101241485/157414182-074e1f60-6b27-4d99-8ba9-d7c99b4f44cb.png)
 
+# Starlight
+![image](https://user-images.githubusercontent.com/101241485/157414209-b4356cf5-d7d7-452f-bb5c-01140f940ef8.png)
+
+
+### III. Daily, Preparation, Heroes, Achievements, Inventory
 
 
 
