@@ -57,14 +57,10 @@ There are also a lot of things visible here that the other player may see. They 
 
 > Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will be a great help for [you](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/).
 
-### II. Shop, Events, Starlight, Performance Reward
+## II. Shop, Events, Starlight, Performance Reward
 
 The Shop, Events, Starlight, and Performance Reward are can be found on the left side of your phone in which it is the source of loots that can be obtained through buying, claiming, and participating to the simple task does moontoon has given you and simple rewards awaits as you accomplish those task.
 
-# Shop
-![image](https://user-images.githubusercontent.com/101241485/157414182-074e1f60-6b27-4d99-8ba9-d7c99b4f44cb.png)
-
-# Starlight
 ![image](https://user-images.githubusercontent.com/101241485/157414209-b4356cf5-d7d7-452f-bb5c-01140f940ef8.png)
 
 
