@@ -36,33 +36,25 @@ A dropped connection could mean hanging your team out to dry in an intense match
 ![20220309_155006802](https://user-images.githubusercontent.com/101241485/157398533-cd9b3a5a-f7bf-4ca4-9053-cb7b7399ed4b.jpeg)
 
 ## The exploration of the components of Mobile Legend
-1. Profile
-2. Shop
-3. Events
-4. Starlight
-5. Performance Reward
-6. Daily
-7. Preparation
-8. Heroes
-9. Achievements
-10. Esports
-11. Inventory
-12. Battlefield (Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp)
-13. Friendlist
-14. Social
-15. Add Friends
-16. Squad
-17. Group
-18. Recharge
-19. Leaderboards
-20. Live
-21. Inbox
-22. Settings
+I. Profile
+II. Shop, Events, Starlight, Performance Reward
+III. Daily, Preparation, Heroes, Achievements, Inventory
+IV. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
+V. Friendlist, Social, Add Friends, Squad, Group
+VI. Recharge, Leaderboards, Live, Inbox, Settings
 
-> Katamad mag label
+> Kayo na bahala hanapin mga yan
 
-### Profile
+### I. Profile
+
+In Mobile Legend, your profile is about the information you have while traveling through the land of dawn.It is determined by your social media status in the game, your performance and stats, the number of (heroes, emblems, skins, Sacred Statue) that you have obtained, the award that you have won, and your charisma in the game.
 
 ![20220309_161128930_2](https://user-images.githubusercontent.com/101241485/157402623-fbeb3f88-e3b4-4739-8008-4e4d871d8f89.jpeg)
+
+There are also a lot of things visible here that the other player may see. They can see your albums, history, battlefields (statistics, favorites, replays, and credit score), your arcade history, streaming info, your mentor info, your account, and especially the Affinity.
+
+![20220309_154409652](https://user-images.githubusercontent.com/101241485/157407590-650a3681-d3b7-4b0c-a163-e16a341ec3a9.jpeg)
+
+![20220309_165308115](https://user-images.githubusercontent.com/101241485/157407620-146e26bc-528d-460b-a72e-cacba89072ab.jpeg)
 
 
