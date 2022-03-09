@@ -43,6 +43,9 @@ A dropped connection could mean hanging your team out to dry in an intense match
 6. Recharge, Leaderboards, Live, Inbox, Settings
 
 
+
+
+
 ## I. Profile
 
 Your profile can be found on the upper left of your phone in which it is the source of information about you through the land of dawn. It is determined by your social media status in the game, your performance and stats, the number of (heroes, emblems, skins, Sacred Statue) that you have obtained, the award that you have won, and your charisma in the game.
@@ -54,6 +57,8 @@ There are also a lot of things visible here that the other player may see. They 
 ![20220309_170704457](https://user-images.githubusercontent.com/101241485/157410544-b83011b2-1260-47b0-944a-fb57fdaed2f4.jpeg)
 
 > Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will be a great help for [you](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/).
+
+
 
 
 
@@ -73,6 +78,8 @@ Starlight is a system created to reward players based on their Starlight point p
 
 
 
+
+
 ## III. Daily, Preparation, Heroes, Achievements, Inventory
 
 The Daily, Preparation, Heroes, Achievements, and Inventory can be found on the bottom side of your phone, which has a big part in our journey in the land of dawn. On the daily, you can claim your daily rewards and surprises that Moontoon has given to you. They can be claimed by actively participating in his tasks, and you'll receive some gold, tickets, exp, keys, chests, and etch. In the preparation, players can prepare themselves for the fight that awaits them by upgrading their emblems, arranging their builds, emotes, quick chat & recalls, and reading every spell and build so that [you'll have the knowledge to know about each one.](https://mobile-legends.fandom.com/wiki/Equipment) 
@@ -85,6 +92,9 @@ You can know each hero's backstory and know what they are fighting for. You can 
 ![20220309_175535260](https://user-images.githubusercontent.com/101241485/157420792-039f2fa5-ed82-478b-a7de-fe7512064319.jpeg)
 
 > and lastly in the inventory, you'll able to stock those loots that you have obtained to those task that you have accomplish. It can stack those such as potion, fragments, hero and skin trial, tickets, event rewards, and etch.
+
+
+
 
 
 ## IV. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
@@ -103,6 +113,9 @@ But thats not all, we also have Classic in which it is the first and earliest ga
 > [To find out more game modes, visit the Battle Field Guide.](https://mobile-legends.fandom.com/wiki/Classic#:~:text=Classic%20is%20the%20first%20and,hero%20side%20and%20the%20whole.)
 
 Lastly, Arcade Modes is an additional game mode in Mobile Legends: Bang Bang that can time-to-time be playable during Special Events, Holidays, or Occasion. The mode feature various strategy based sub-games, that are listed below.
+
+
+
 
 
 ## V. Friendlist, Social, Add Friends, Squad, Group
