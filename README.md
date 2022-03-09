@@ -36,12 +36,12 @@ A dropped connection could mean hanging your team out to dry in an intense match
 ![20220309_155006802](https://user-images.githubusercontent.com/101241485/157398533-cd9b3a5a-f7bf-4ca4-9053-cb7b7399ed4b.jpeg)
 
 ## The exploration of the components of Mobile Legend
-I. Profile
-II. Shop, Events, Starlight, Performance Reward
-III. Daily, Preparation, Heroes, Achievements, Inventory
-IV. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
-V. Friendlist, Social, Add Friends, Squad, Group
-VI. Recharge, Leaderboards, Live, Inbox, Settings
+1. Profile
+2. Shop, Events, Starlight, Performance Reward
+3. Daily, Preparation, Heroes, Achievements, Inventory
+4. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
+5. Friendlist, Social, Add Friends, Squad, Group
+6. Recharge, Leaderboards, Live, Inbox, Settings
 
 > Kayo na bahala hanapin mga yan
 
