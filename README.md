@@ -5,9 +5,8 @@ This is a simple website tour for those new to the game who have an interest in 
 
 ## **What is Mobile Legend?**
 
-[Mobile Legends: Bang Bang, the fascinating MOBA game on mobile](https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=US). Smash and outplay your enemies and achieve the final victory with your teammates!
-
-Your phone thirsts for battle!
+[Mobile Legends: Bang Bang](https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=US) is a mobile multiplayer online battle arena (MOBA) developed and published by Moonton. Released in 2016, the game has become popular in Southeast Asia and was among the games chosen for the first medal event esports competition at the 2019 Southeast Asian Games in the Philippines.
+> In each team, there are five players who each control a character, known as a "hero" using analog/joystick controls. Heroes can be grouped into 6 different roles, Marksman, Assassin, Mage, Support, Fighter, and Tank.
 
 ![20220309_160802096](https://user-images.githubusercontent.com/101241485/157400519-4b57f03b-0233-44ad-a0d6-8eddcb45eedf.jpeg)
 
