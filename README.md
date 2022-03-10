@@ -125,8 +125,7 @@ The Friendlist, Social, Add Friends, Squad, and Group are located on the right s
 
 ![20220309_175641634](https://user-images.githubusercontent.com/101241485/157461096-2b2beb7f-ba65-4144-9488-8568b6a5bd48.jpeg)
 
-[![Mithci.github.io]({![image](https://user-images.githubusercontent.com/101241485/157708443-be85816a-8530-4103-a513-3b7925549c31.png)})]({https://youtu.be/rPm6U4iFye8} "FLEX YOUR RELATIONSHIP IN MOBILE LEGENDS")
- 
+
 
 
 
