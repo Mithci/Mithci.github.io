@@ -82,7 +82,8 @@ Starlight is a system created to reward players based on their Starlight point p
 
 ## III. Daily, Preparation, Heroes, Achievements, Inventory
 
-The Daily, Preparation, Heroes, Achievements, and Inventory can be found on the bottom side of your phone, which has a big part in our journey in the land of dawn. On the daily, you can claim your daily rewards and surprises that Moontoon has given to you. They can be claimed by actively participating in his tasks, and you'll receive some gold, tickets, exp, keys, chests, and etch. In the preparation, players can prepare themselves for the fight that awaits them by upgrading their emblems, arranging their builds, emotes, quick chat & recalls, and reading every spell and build so that [you'll have the knowledge to know about each one.](https://mobile-legends.fandom.com/wiki/Equipment) 
+The Daily, Preparation, Heroes, Achievements, and Inventory can be found on the bottom side of your phone, which has a big part in our journey in the land of dawn. On the daily, you can claim your daily rewards and surprises that Moontoon has given to you. They can be claimed by actively participating in his tasks, and you'll receive some gold, tickets, exp, keys, chests, and etch.
+> In the preparation, players can prepare themselves for the fight that awaits them by upgrading their emblems, arranging their builds, emotes, quick chat & recalls, and reading every spell and build so that [you'll have the knowledge to know about each one.](https://mobile-legends.fandom.com/wiki/Equipment) 
 
 ![20220309_175625329](https://user-images.githubusercontent.com/101241485/157419789-260ea88d-04d5-4ad5-b5d8-43ae4a03923f.jpeg)
 
@@ -123,6 +124,8 @@ Lastly, Arcade Modes is an additional game mode in Mobile Legends: Bang Bang tha
 The Friendlist, Social, Add Friends, Squad, and Group are located on the right side of the phone, which helps us socialize with our friends by playing, chatting, teaching, and competing with each other. Through this section, you can see how strong your relationship is by the affinity that connects you with that particular person. It can be your [soulmate, confidant, best friend, or bro.](https://gamingonphone.com/guides/mobile-legends-familiarity-affinity-system-explained/#:~:text=How%20to%20establish%20Affinity%20in,needs%20to%20approve%20the%20request.)
 
 ![20220309_175641634](https://user-images.githubusercontent.com/101241485/157461096-2b2beb7f-ba65-4144-9488-8568b6a5bd48.jpeg)
+
+[if](https://www.youtube.com/watch?v=A6ajt_3he8Y)
 
 
 
