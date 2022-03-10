@@ -125,7 +125,7 @@ The Friendlist, Social, Add Friends, Squad, and Group are located on the right s
 
 ![20220309_175641634](https://user-images.githubusercontent.com/101241485/157461096-2b2beb7f-ba65-4144-9488-8568b6a5bd48.jpeg)
 
-[![Mithci.github.io](https://img.youtube.com/vi/rPm6U4iFye8)](https://www.youtube.com/watch?v=rPm6U4iFye8)
+[title](https://www.youtube.com/watch?v=rPm6U4iFye8)
 
 
 
