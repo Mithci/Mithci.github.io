@@ -66,6 +66,7 @@ There are also a lot of things visible here that the other player may see. They 
 ## II. Shop, Events, Starlight, Performance Reward
 
 The Shop, Events, Starlight, and Performance Reward can be found on the left side of your phone, which is the source of loot that can be obtained through buying, claiming, and participating in the simple tasks that Moontoon has given you, and simple rewards await you as you accomplish those tasks. In the shop, you can buy your own chosen heroes and favorable skins of your choice for the cost of a diamond.
+
 *There are also things that can be bought from the shop that can be helpful to make your performance reward even better. There is also an event in which you can also find loot as you accomplish your tasks.*
 
 ![20220309_171801413](https://user-images.githubusercontent.com/101241485/157416328-6924d451-685e-4de9-b66d-b682b5c5e9b7.jpeg)
@@ -89,6 +90,7 @@ The Daily, Preparation, Heroes, Achievements, and Inventory can be found on the 
 ![20220309_175625329](https://user-images.githubusercontent.com/101241485/157419789-260ea88d-04d5-4ad5-b5d8-43ae4a03923f.jpeg)
 
 You can know each hero's backstory and know what they are fighting for. You can also know each single hero's relationship and be able to relate to them as you play them as your hero and be able to see more of the places that they have in the land of dawn. You'll be able to see each single skin they have and know if you already have them.
+
 *In the achievements, here are the tasks that Moontoon assigned and you must complete. If we are able to determine that we can complete that particular task, and you complete it, it will serve as an achievement that can be displayed on your profile.*
 
 ![20220309_175535260](https://user-images.githubusercontent.com/101241485/157420792-039f2fa5-ed82-478b-a7de-fe7512064319.jpeg)
@@ -102,6 +104,7 @@ You can know each hero's backstory and know what they are fighting for. You can 
 ## IV. Ranked, Classic, Arcade,Brawl, VS A.I. Custom, Training Camp
 
 Mobile Legends features a ranked system, but players can also find tournaments to compete in, which increases the level of competition throughout the game. Even if you’re not aiming for glory, playing ranked matches will allow you to play with players from the same skill tier as you. 
+
 *Before you can step foot into the ranked mode, you’ll need to get your account to level eight and unlock at least six heroes. Once you complete these requirements, you’ll be able to start your journey from the Warrior rank.
 When you win a ranked Mobile Legends match, you’ll be awarded a star, but a defeat will mean you’ll lose a star. Once you collect all the stars in a division, you’ll advance to the next tier. Players who don’t have any stars left in their rank will be demoted to a rank below after losing.*
 
@@ -138,6 +141,8 @@ Moba games are more fun with your friends. Adding friends to Mobile Legends is p
 
 
 ## VI. Recharge, Leaderboards, Live, Inbox, Settings
+
+Lastly to the Recharge, Leaderboards, Live, Inbox, Settings 
 
 
 
