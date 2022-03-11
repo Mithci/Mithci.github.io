@@ -159,9 +159,9 @@ Lastly, in the upper right section of the game screen, we can see the Recharge, 
 - [**moogold**](https://moogold.com/product/mobile-legends/)
 
  ---
-[Facebook](https://www.facebook.com/ryan.bulalacao.52)
-[Youtube Channel](https://www.youtube.com/channel/UCFUKTWkYcFaOP48OfkPJLUw)
-[Sir Gain's Page](https://641n.github.io/computer-9/)
+- [Facebook](https://www.facebook.com/ryan.bulalacao.52)
+- [Youtube Channel](https://www.youtube.com/channel/UCFUKTWkYcFaOP48OfkPJLUw)
+- [Sir Gain's Page](https://641n.github.io/computer-9/)
 
 
 
