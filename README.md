@@ -127,6 +127,8 @@ Lastly, Arcade Modes is an additional game mode in Mobile Legends: Bang Bang tha
 The Friendlist, Social, Add Friends, Squad, and Group are located on the right side of the phone, which helps us socialize with our friends by playing, chatting, teaching, and competing with each other. Through this section, you can see how strong your relationship is by the affinity that connects you with that particular person. Moonton in the latest update has presented a new feature / system called Affinity fortheir popular MOBA game, Mobile Legends (ML). The [Affinity feature/system](https://www.fajaryusuf.com/en/guide-game-en/complete-explanation-of-the-affinity-features-system-in-mobile-legends-ml)
  has been released on Mobile Legends (ML) together with the 1.6.18 patch update which was released on September 21 yesterday.
 
+![20220226_212617846](https://user-images.githubusercontent.com/101241485/157819930-c1fc3bb7-9947-430e-939a-ba318736e66e.jpeg)
+
 *Players can see the Affinity feature in the Profile -> Social -> Affinity menu. In this feature, players can increase intimacy with friends, by interacting in the Mobile Legends (ML) game. Interacting with the Mobile Legends game can be done by collaborating, playing together, and sending gifts to friends.*
 for more info about the topic p.s watch the vid
 
@@ -142,7 +144,7 @@ Moba games are more fun with your friends. Adding friends to Mobile Legends is p
 
 ## VI. Recharge, Leaderboards, Live, Inbox, Settings
 
-Lastly to the Recharge, Leaderboards, Live, Inbox, Settings 
+Lastly to the upper right section of the games screen we can see the Recharge, Leaderboards, Live, Inbox, Settings. In here we can purchase some diamonds, check weather what rank are you in your place, change or check your settings, and see update through your inbox. 
 
 
 
