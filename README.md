@@ -120,15 +120,22 @@ Lastly, Arcade Modes is an additional game mode in Mobile Legends: Bang Bang tha
 
 ## V. Friendlist, Social, Add Friends, Squad, Group
 
-The Friendlist, Social, Add Friends, Squad, and Group are located on the right side of the phone, which helps us socialize with our friends by playing, chatting, teaching, and competing with each other. Through this section, you can see how strong your relationship is by the affinity that connects you with that particular person. It can be your [soulmate, confidant, best friend, or bro.](https://gamingonphone.com/guides/mobile-legends-familiarity-affinity-system-explained/#:~:text=How%20to%20establish%20Affinity%20in,needs%20to%20approve%20the%20request.)
+The Friendlist, Social, Add Friends, Squad, and Group are located on the right side of the phone, which helps us socialize with our friends by playing, chatting, teaching, and competing with each other. Through this section, you can see how strong your relationship is by the affinity that connects you with that particular person. Moonton in the latest update has presented a new feature / system called Affinity fortheir popular MOBA game, Mobile Legends (ML). The [Affinity feature/system](https://www.fajaryusuf.com/en/guide-game-en/complete-explanation-of-the-affinity-features-system-in-mobile-legends-ml)
+ has been released on Mobile Legends (ML) together with the 1.6.18 patch update which was released on September 21 yesterday.
 
+*Players can see the Affinity feature in the Profile -> Social -> Affinity menu. In this feature, players can increase intimacy with friends, by interacting in the Mobile Legends (ML) game. Interacting with the Mobile Legends game can be done by collaborating, playing together, and sending gifts to friends.*
+> for more info about the topic p.s watch the vid
+[![Mithci.github.io](https://img.youtube.com/vi/rPm6U4iFye8/0.mp4)](youtube.com/watch?v=rPm6U4iFye8)
+
+Moba games are more fun with your friends. Adding friends to Mobile Legends is pretty simple. All you have to do is just click the “Add Friend” button. You can enjoy 5v5 battles with your friends.
+
+*Now it will be fun. I remember that it was very enjoyable to play with friends in all kinds of circles. So you have to watch your friends play games, do not break your heart. I’m sure more rewards will come when playing with friends. Besides, who will you already trust. Play with the guys you trust and at least get support.*
 ![20220309_175641634](https://user-images.githubusercontent.com/101241485/157461096-2b2beb7f-ba65-4144-9488-8568b6a5bd48.jpeg)
 
-[![Mithci.github.io](https://img.youtube.com/vi/rPm6U4iFye8/0.jpg)](youtube.com/watch?v=rPm6U4iFye8)
+[Squads](https://mobile-legends.net/join-or-create-squad-rules/) and group can be located here as well in which they are an important aspect of a competitive multiplayer game. It builds a small community of players who will find friendship and companions to play ranked games together. Players can either find a squad or make their own after reaching account level 20. 
 
-> for more info about the topic p.s watch the vid
 
-This can also detect the exact followers we have in the game and seek and gain more friends as you play mobile legend. 
+## VI. Recharge, Leaderboards, Live, Inbox, Settings
 
 
 
