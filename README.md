@@ -124,9 +124,9 @@ The Friendlist, Social, Add Friends, Squad, and Group are located on the right s
 
 ![20220309_175641634](https://user-images.githubusercontent.com/101241485/157461096-2b2beb7f-ba65-4144-9488-8568b6a5bd48.jpeg)
 
-[![Mithci.github.io](https://img.youtube.com/vi/rPm6U4iFye8/0.jpg)](https://www.youtube.com/watch?v=rPm6U4iFye8)
+[![Mithci.github.io](https://img.youtube.com/vi/rPm6U4iFye8/0.jpg)](youtube.com/watch?v=rPm6U4iFye8)
 
-< for more info about the topic p.s watch the vid
+> for more info about the topic p.s watch the vid
 
 This can also detect the exact followers we have in the game and seek and gain more friends as you play mobile legend. 
 
