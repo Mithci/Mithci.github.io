@@ -158,6 +158,8 @@ Lastly, in the upper right section of the game screen, we can see the Recharge, 
 - [**seagm**](https://www.seagm.com/mobile-legends-diamonds-top-up)
 - [**moogold**](https://moogold.com/product/mobile-legends/)
 
+<iframe width="857" height="482" src="https://www.youtube.com/embed/d4aSOErsnYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  ---
 - [Facebook](https://www.facebook.com/ryan.bulalacao.52)
 - [Youtube Channel](https://www.youtube.com/channel/UCFUKTWkYcFaOP48OfkPJLUw)
