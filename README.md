@@ -6,8 +6,7 @@ This is a simple website tour for those new to the game who have an interest in 
 ## **What is Mobile Legend?**
 
 [Mobile Legends: Bang Bang](https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en&gl=US) is a mobile multiplayer online battle arena (MOBA) developed and published by Moonton. Released in 2016, the game has become popular in Southeast Asia and was among the games chosen for the first medal event esports competition at the 2019 Southeast Asian Games in the Philippines.
-
-*In each team, there are five players who each control a character, known as a "hero" using analog/joystick controls. Heroes can be grouped into 6 different roles, Marksman, Assassin, Mage, Support, Fighter, and Tank.*
+*In each team, there are five players who each control a character, known as a "hero" using analog/joystick controls. Heroes can be grouped into 6 different roles, Marksman, Assassin, Mage, Support, Fighter, and Tank.
 
 ![20220309_160802096](https://user-images.githubusercontent.com/101241485/157400519-4b57f03b-0233-44ad-a0d6-8eddcb45eedf.jpeg)
 
@@ -57,7 +56,7 @@ There are also a lot of things visible here that the other player may see. They 
 
 ![20220309_170704457](https://user-images.githubusercontent.com/101241485/157410544-b83011b2-1260-47b0-944a-fb57fdaed2f4.jpeg)
 
-*Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will be a great help for [you](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/).*
+*Mobile Legends: Bang Bang is one of the most popular mobile games today, but if you’re just starting out, you might be overwhelmed by the number of heroes, abilities, and items to learn. But have no fear, this guide will show you the path to the top. Whether you’re a complete beginner or if you’ve already played a few games, this guide will be a great help for [you](https://www.oneesports.gg/mobile-legends/the-beginners-guide-to-getting-good-at-mobile-legends-bang-bang/).
 
 
 
@@ -66,7 +65,7 @@ There are also a lot of things visible here that the other player may see. They 
 ## II. Shop, Events, Starlight, Performance Reward
 
 The Shop, Events, Starlight, and Performance Reward can be found on the left side of your phone, which is the source of loot that can be obtained through buying, claiming, and participating in the simple tasks that Moontoon has given you, and simple rewards await you as you accomplish those tasks. In the shop, you can buy your own chosen heroes and favorable skins of your choice for the cost of a diamond.
-*There are also things that can be bought from the shop that can be helpful to make your performance reward even better. There is also an event in which you can also find loot as you accomplish your tasks.*
+*There are also things that can be bought from the shop that can be helpful to make your performance reward even better. There is also an event in which you can also find loot as you accomplish your tasks. 
 
 ![20220309_171801413](https://user-images.githubusercontent.com/101241485/157416328-6924d451-685e-4de9-b66d-b682b5c5e9b7.jpeg)
 
@@ -89,11 +88,11 @@ The Daily, Preparation, Heroes, Achievements, and Inventory can be found on the 
 ![20220309_175625329](https://user-images.githubusercontent.com/101241485/157419789-260ea88d-04d5-4ad5-b5d8-43ae4a03923f.jpeg)
 
 You can know each hero's backstory and know what they are fighting for. You can also know each single hero's relationship and be able to relate to them as you play them as your hero and be able to see more of the places that they have in the land of dawn. You'll be able to see each single skin they have and know if you already have them.
-*In the achievements, here are the tasks that Moontoon assigned and you must complete. If we are able to determine that we can complete that particular task, and you complete it, it will serve as an achievement that can be displayed on your profile.*
+*In the achievements, here are the tasks that Moontoon assigned and you must complete. If we are able to determine that we can complete that particular task, and you complete it, it will serve as an achievement that can be displayed on your profile.
 
 ![20220309_175535260](https://user-images.githubusercontent.com/101241485/157420792-039f2fa5-ed82-478b-a7de-fe7512064319.jpeg)
 
-*and lastly in the inventory, you'll able to stock those loots that you have obtained to those task that you have accomplish. It can stack those such as potion, fragments, hero and skin trial, tickets, event rewards, and etch.*
+*and lastly in the inventory, you'll able to stock those loots that you have obtained to those task that you have accomplish. It can stack those such as potion, fragments, hero and skin trial, tickets, event rewards, and etch.
 
 
 
@@ -103,7 +102,7 @@ You can know each hero's backstory and know what they are fighting for. You can 
 
 Mobile Legends features a ranked system, but players can also find tournaments to compete in, which increases the level of competition throughout the game. Even if you’re not aiming for glory, playing ranked matches will allow you to play with players from the same skill tier as you. 
 *Before you can step foot into the ranked mode, you’ll need to get your account to level eight and unlock at least six heroes. Once you complete these requirements, you’ll be able to start your journey from the Warrior rank.
-When you win a ranked Mobile Legends match, you’ll be awarded a star, but a defeat will mean you’ll lose a star. Once you collect all the stars in a division, you’ll advance to the next tier. Players who don’t have any stars left in their rank will be demoted to a rank below after losing.*
+When you win a ranked Mobile Legends match, you’ll be awarded a star, but a defeat will mean you’ll lose a star. Once you collect all the stars in a division, you’ll advance to the next tier. Players who don’t have any stars left in their rank will be demoted to a rank below after losing.
 
 ![20220303_235824637](https://user-images.githubusercontent.com/101241485/157423564-4e9a16f0-c9d9-4dbc-aade-2aa53f4b910c.jpeg)
 > [Here are all the ranked tiers in Mobile Legends.](https://dotesports.com/mobile/news/mobile-legends-ranking-system-explained)
@@ -125,9 +124,14 @@ The Friendlist, Social, Add Friends, Squad, and Group are located on the right s
  has been released on Mobile Legends (ML) together with the 1.6.18 patch update which was released on September 21 yesterday.
 
 *Players can see the Affinity feature in the Profile -> Social -> Affinity menu. In this feature, players can increase intimacy with friends, by interacting in the Mobile Legends (ML) game. Interacting with the Mobile Legends game can be done by collaborating, playing together, and sending gifts to friends.*
-> for more info about the topic p.s watch the vid
+for more info about the topic p.s watch the vid
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rPm6U4iFye8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 Moba games are more fun with your friends. Adding friends to Mobile Legends is pretty simple. All you have to do is just click the “Add Friend” button. You can enjoy 5v5 battles with your friends.
 
