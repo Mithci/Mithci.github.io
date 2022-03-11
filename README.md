@@ -130,7 +130,7 @@ The Friendlist, Social, Add Friends, Squad, and Group are located on the right s
 *Players can see the Affinity feature in the Profile -> Social -> Affinity menu. In this feature, players can increase intimacy with friends, by interacting in the Mobile Legends (ML) game. Interacting with the Mobile Legends game can be done by collaborating, playing together, and sending gifts to friends.*
 > for more info about the topic p.s watch the vid
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rPm6U4iFye8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rPm6U4iFye8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen</iframe
 
 Moba games are more fun with your friends. Adding friends to Mobile Legends is pretty simple. All you have to do is just click the “Add Friend” button. You can enjoy 5v5 battles with your friends.
 
