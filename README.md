@@ -144,7 +144,10 @@ Moba games are more fun with your friends. Adding friends to Mobile Legends is p
 
 ## VI. Recharge, Leaderboards, Live, Inbox, Settings
 
-Lastly to the upper right section of the games screen we can see the Recharge, Leaderboards, Live, Inbox, Settings. In here we can purchase some diamonds, check weather what rank are you in your place, change or check your settings, and see update through your inbox. 
+Lastly, in the upper right section of the game screen, we can see the Recharge, Leaderboards, Live, Inbox, and Settings. Here we can purchase some diamonds, check what rank you have in your place, change or check your settings, watch some live tutorials of your based hero, and see updates through your inbox. This is the place where you make changes, not only to your account, but also to yourself.
+
+![20220309_175819402](https://user-images.githubusercontent.com/101241485/157824113-8154bdbe-e066-4bb1-a3fc-4dcabefc199b.jpeg)
+
 
 
 
