@@ -111,6 +111,8 @@ When you win a ranked Mobile Legends match, you’ll be awarded a star, but a de
 ![20220303_235824637](https://user-images.githubusercontent.com/101241485/157423564-4e9a16f0-c9d9-4dbc-aade-2aa53f4b910c.jpeg)
 > [Here are all the ranked tiers in Mobile Legends.](https://dotesports.com/mobile/news/mobile-legends-ranking-system-explained)
 
+ ---
+
 But thats not all, we also have Classic in which it is the first and earliest game mode in Mobile Legends. All other game modes use the rules in Classic as a base. This mode gives 5v5 and the Mobile Legends experience without worrying about losing your Rank, but your win rate will be affected, both from the hero side and the whole.
 > Classic Mode is a great place if you want to play more relaxed or hone skills using a new hero. If you had just bought a hero and is still unfamiliar as to how the hero works, you can familiarize yourself on using that hero first in Vs. AI or Custom. 
 
@@ -144,9 +146,26 @@ Moba games are more fun with your friends. Adding friends to Mobile Legends is p
 
 ## VI. Recharge, Leaderboards, Live, Inbox, Settings
 
-Lastly, in the upper right section of the game screen, we can see the Recharge, Leaderboards, Live, Inbox, and Settings. Here we can purchase some diamonds, check what rank you have in your place, change or check your settings, watch some live tutorials of your based hero, and see updates through your inbox. This is the place where you make changes, not only to your account, but also to yourself.
+Lastly, in the upper right section of the game screen, we can see the Recharge, Leaderboards, Live, Inbox, and Settings. Here we can purchase some diamonds, check what rank you have in your place, change or check your settings, watch some live tutorials of your based hero, and see updates through your inbox. This is the place where you make changes, not only to your account, but also to yourself that helps your gameplay even better.
 
-![20220309_175819402](https://user-images.githubusercontent.com/101241485/157824113-8154bdbe-e066-4bb1-a3fc-4dcabefc199b.jpeg)
+![20220309_175819402](https://user-images.githubusercontent.com/101241485/157824987-0d525376-61f0-4df1-ab16-1fe4ae6a11ec.jpeg)
+
+*If you are wondering how you will top-up some dias, here are some of my recommended top-up sites where the transaction of money and dias are safe and can be trusted:*
+- [**Codashop**](https://www.codashop.com/) 
+- [**Razergold**](https://gold.razer.com/gold/catalog/mobile-legends)
+- [**Jollymax**](https://www.jollymax.com/ph?from=ads_gg_20211015_home_d_adt_0&gclid=CjwKCAiA4KaRBhBdEiwAZi1zzpr-ZhnWrNly38Os2HbH6VirANcN-Ufz41_RYgianjeo2FeSlo-M6RoCQ-MQAvD_BwE)
+- [**UniPin**](https://www.unipin.com/ph/mobile-legends)
+- [**seagm**](https://www.seagm.com/mobile-legends-diamonds-top-up)
+- [**moogold**](https://moogold.com/product/mobile-legends/)
+
+ ---
+[Facebook](https://www.facebook.com/ryan.bulalacao.52)
+[Youtube Channel](https://www.youtube.com/channel/UCFUKTWkYcFaOP48OfkPJLUw)
+[Sir Gain's Page](https://641n.github.io/computer-9/)
+
+
+
+
 
 
 
